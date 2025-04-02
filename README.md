@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Mohamed Saleh Matar @mohamedSalehMatar
   
 - 👀 I’m interested in
-  Artificial Intelligence
-  Web Developement
+  Artificial Intelligence &
+  Game Developement
   
 - 🌱 I’m currently learning
-  Python
-  Source Control
+  Python &
+  C#
   
 - 📫 How to reach me
   My Email: mohamedsalehmatar@gmail.com
