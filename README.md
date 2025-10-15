@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in
   Artificial Intelligence &
-  Machine Learning
+  Machine Learning.
   
 - 🌱 I’m currently learning
   AI/ML Model Deployment and maintainance.
