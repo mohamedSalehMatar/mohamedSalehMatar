@@ -2,11 +2,10 @@
   
 - 👀 I’m interested in
   Artificial Intelligence &
-  Game Developement
+  Machine Learning
   
 - 🌱 I’m currently learning
-  Python &
-  C#
+  AI/ML Model Deployment and maintainance.
   
 - 📫 How to reach me
   My Email: mohamedsalehmatar@gmail.com
